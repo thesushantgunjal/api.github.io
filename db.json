@@ -1,0 +1,49 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "image": "https://technophilic.co/images/blog/web-devlopment.jpg",
+      "title": "Web Development",
+      "desc": "Design a fully responsive staic and dynamic website."
+    },
+    {
+      "id": 2,
+      "image": "https://www.webhopers.com/wp-content/uploads/2022/02/software-development-company-in-Karnal.jpg",
+      "title": "Software Development",
+      "desc": "Design a software."
+    },
+    {
+      "id": 3,
+      "image": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
+      "title": "Graphic Design",
+      "desc": "Design a social media design, logo, promotions, flayer, etc,."
+    },
+    {
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ89MsFBdJjXYZgZM1PA9YfqYa-PLpDiU7dllxP79Vc6Q6PqD9fVVrMGzKI722pKrt-rSo&usqp=CAU",
+      "title": "Image Resolution",
+      "desc": "Recover blur and damaged images into clean and hd picture using AI."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "image": "https://technophilic.co/images/blog/web-devlopment.jpg",
+      "title": "Trip Tok",
+      "desc": "Trip Tok is travel agency website. It is fully responsive static website design using HTML, CSS, JavaScript."
+    },
+    {
+      "id": 2,
+      "image": "https://www.webhopers.com/wp-content/uploads/2022/02/software-development-company-in-Karnal.jpg",
+      "title": "Foodies",
+      "desc": "Foodies is hotel management software. It's manages all sevices in the hotel involve invoice system."
+    },
+    {
+      "id": 3,
+      "image": "https://www.totaljobs.com/advice/wp-content/uploads/graphic-designer-job-description-1024x576.jpg",
+      "title": "Samarth Enterprises",
+      "desc": "Samarth Enterprises is a Management software for enterprise."
+    }
+  ]
+  
+}
